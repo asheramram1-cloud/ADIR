@@ -1,9 +1,3 @@
-#EXTINF:-1 tvg-name="Yaldut IL" group-title="Uncategorized",Yaldut IL
-http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2383/index.m3u8
-#EXTINF:-1 tvg-name="YAM TIHONI HD IL" group-title="Uncategorized",YAM TIHONI HD IL
-http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12235/index.m3u8
-#EXTINF:-1 tvg-name="Yamtihoni IL" group-title="Uncategorized",Yamtihoni IL
-http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2390/index.m3u8
 #EXTINF:-1 tvg-name="Yes ACTION HD IL" group-title="Uncategorized",Yes ACTION HD IL
 http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2346/index.m3u8
 #EXTINF:-1 tvg-name="Yes COMEDY HD IL" group-title="Uncategorized",Yes COMEDY HD IL
@@ -42,24 +36,10 @@ http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12280/index.m3u8
 http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12281/index.m3u8
 #EXTINF:-1 tvg-name="YES TV DRAMA HD IL" group-title="Uncategorized",YES TV DRAMA HD IL
 http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12282/index.m3u8
-#EXTINF:-1 tvg-name="YTV (Canada)" group-title="Canada HD",YTV (Canada)
-http://jabawalkies.club:8080/7DWhiJnv46v/1sanWE12EwnA/124467
-#EXTINF:-1 tvg-name="ZOOM IL" group-title="Uncategorized",ZOOM IL
-http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2359/index.m3u8
-#EXTINF:-1 tvg-name="HIDABRUT IL" group-title="Uncategorized",HIDABRUT IL
-http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12211/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" tvg-name="hip hop classics" group-title="Music Choice HD",hip hop classics
-http://jabawalkies.club:8080/7DWhiJnv46v/1sanWE12EwnA/12452
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" tvg-name="Hip-Hop/R&B" group-title="Music Choice HD",Hip-Hop/R&B
-http://jabawalkies.club:8080/7DWhiJnv46v/1sanWE12EwnA/12446
-#EXTINF:-1 tvg-name="History Channel (Canada)" group-title="Canada HD",History Channel (Canada)
-http://jabawalkies.club:8080/7DWhiJnv46v/1sanWE12EwnA/124461
-#EXTINF:-1 tvg-name="HISTORY HD IL" group-title="Uncategorized",HISTORY HD IL
-http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12265/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" tvg-name="Hit List" group-title="Music Choice HD",Hit List
-http://jabawalkies.club:8080/7DWhiJnv46v/1sanWE12EwnA/12445
 #EXTINF:-1 tvg-name="Home Plus IL" group-title="Uncategorized",Home Plus IL
 http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2339/index.m3u8
+#EXTINF:-1 tvg-name="Homefront" group-title="Dovus Filmleri",Homefront
+http://cms.3p24.de:1453/movie/CVafXHID5F/5SeZ8SPwLh/20824.mkv
 #EXTINF:-1 tvg-name="HOP CHILDHOOD IL" group-title="Uncategorized",HOP CHILDHOOD IL
 http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12213/index.m3u8
 #EXTINF:-1 tvg-name="HOP HD IL" group-title="Uncategorized",HOP HD IL
@@ -90,19 +70,80 @@ http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2356/index.m3u8
 http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12217/index.m3u8
 #EXTINF:-1 tvg-name="HOT ENTERTAINMENT HD IL" group-title="Uncategorized",HOT ENTERTAINMENT HD IL
 http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12219/index.m3u8
-#EXTINF:-1 tvg-name="Junior IL" group-title="Uncategorized",Junior IL
-http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2366/index.m3u8
-#EXTINF:-1 tvg-name="JUNIOR IL" group-title="Uncategorized",JUNIOR IL
-http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12240/index.m3u8
-#EXTINF:-1 tvg-name="Kan 11 IL" group-title="Uncategorized",Kan 11 IL
-http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2332/index.m3u8
-#EXTINF:-1 tvg-name="KAN 11 IL" group-title="Uncategorized",KAN 11 IL
-http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12237/index.m3u8
-#EXTINF:-1 tvg-name="Kan Elady" group-title="Uncategorized",Kan Elady
-http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2380/index.m3u8
-#EXTINF:-1 tvg-name="Keshet 12 IL" group-title="Uncategorized",Keshet 12 IL
-http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2329/index.m3u8
-#EXTINF:-1 tvg-name="Kids IL" group-title="Uncategorized",Kids IL
-http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2365/index.m3u8
-#EXTINF:-1 tvg-name="ch 14" group-title="Uncategorized",CH 14
-http://315e5a5d.ottrast.com/iptv/AE8BY6FHF5ZGAG/12239/index.m3u8
+#EXTINF:-1 tvg-name="Hot HBO HD IL" group-title="Uncategorized",Hot HBO HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2354/index.m3u8
+#EXTINF:-1 tvg-name="Hot Luli" group-title="Uncategorized",Hot Luli
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2364/index.m3u8
+#EXTINF:-1 tvg-name="Hot Zone" group-title="Uncategorized",Hot Zone
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2360/index.m3u8
+#EXTINF:-1 tvg-name="HOT ZONE HD IL" group-title="Uncategorized",HOT ZONE HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12222/index.m3u8
+#EXTINF:-1 tvg-name="HOT3 HD IL" group-title="Uncategorized",HOT3 HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12214/index.m3u8
+#EXTINF:-1 tvg-name="HOT8 HD IL" group-title="Uncategorized",HOT8 HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12216/index.m3u8
+#EXTINF:-1 tvg-name="HUMOR CHANNEL HD IL" group-title="Uncategorized",HUMOR CHANNEL HD IL
+#EXTINF:-1 tvg-name="LIFETIME HD IL" group-title="Uncategorized",LIFETIME HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12224/index.m3u8
+#EXTINF:-1 tvg-name="MAKAN HD IL" group-title="Uncategorized",MAKAN HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12225/index.m3u8
+#EXTINF:-1 tvg-name="NATIONAL GEOGRAPHICS HD IL" group-title="Uncategorized",NATIONAL GEOGRAPHICS HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12247/index.m3u8
+#EXTINF:-1 tvg-name="NET GEO_WILD HD IL" group-title="Uncategorized",NET GEO_WILD HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12248/index.m3u8
+#EXTINF:-1 tvg-name="NICK HD IL" group-title="Uncategorized",NICK HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12229/index.m3u8
+#EXTINF:-1 tvg-name="NICK JR HD IL" group-title="Uncategorized",NICK JR HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12228/index.m3u8
+#EXTINF:-1 tvg-name="Nick Jr IL" group-title="Uncategorized",Nick Jr IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2337/index.m3u8
+#EXTINF:-1 tvg-name="ONE 1 HD IL" group-title="Uncategorized",ONE 1 HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12230/index.m3u8
+#EXTINF:-1 tvg-name="ONE 2 HD IL" group-title="Uncategorized",ONE 2 HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2373/index.m3u8
+#EXTINF:-1 tvg-name="ONE 2 HD IL" group-title="Uncategorized",ONE 2 HD IL
+#EXTINF:-1 tvg-name="ONE HD IL" group-title="Uncategorized",ONE HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2340/index.m3u8
+#EXTINF:-1 tvg-name="Sport 1 HD IL" group-title="Uncategorized",Sport 1 HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2353/index.m3u8
+#EXTINF:-1 tvg-name="SPORT 1 HD IL" group-title="Uncategorized",SPORT 1 HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12249/index.m3u8
+#EXTINF:-1 tvg-name="SPORT 2 HD IL" group-title="Uncategorized",SPORT 2 HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2352/index.m3u8
+#EXTINF:-1 tvg-name="SPORT 2 HD IL" group-title="Uncategorized",SPORT 2 HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12250/index.m3u8
+#EXTINF:-1 tvg-name="Sport 3 HD IL" group-title="Uncategorized",Sport 3 HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2388/index.m3u8
+#EXTINF:-1 tvg-name="SPORT 3 HD IL" group-title="Uncategorized",SPORT 3 HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12251/index.m3u8
+#EXTINF:-1 tvg-name="Sport 4 HD IL" group-title="Uncategorized",Sport 4 HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2389/index.m3u8
+#EXTINF:-1 tvg-name="SPORT 4 HD IL" group-title="Uncategorized",SPORT 4 HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12252/index.m3u8
+#EXTINF:-1 tvg-name="SPORT 5 GOLD IL" group-title="Uncategorized",SPORT 5 GOLD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12254/index.m3u8
+#EXTINF:-1 tvg-name="Sport 5 HD IL" group-title="Uncategorized",Sport 5 HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2341/index.m3u8
+#EXTINF:-1 tvg-name="SPORT 5 HD IL" group-title="Uncategorized",SPORT 5 HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12253/index.m3u8
+#EXTINF:-1 tvg-name="Sport 5 IL" group-title="Uncategorized",Sport 5 IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2391/index.m3u8
+#EXTINF:-1 tvg-name="SPORT 5 LIVE HD IL" group-title="Uncategorized",SPORT 5 LIVE HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12255/index.m3u8
+#EXTINF:-1 tvg-name="SPORT 5 PLUS HD IL" group-title="Uncategorized",SPORT 5 PLUS HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12256/index.m3u8
+#EXTINF:-1 tvg-name="VIVA HD IL" group-title="Uncategorized",VIVA HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12233/index.m3u8
+#EXTINF:-1 tvg-name="VIVA IL" group-title="Uncategorized",VIVA IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2387/index.m3u8
+#EXTINF:-1 tvg-name="VIVA TV" group-title="Spain-L",VIVA TV
+http://jabawalkies.club:8080/7DWhiJnv46v/1sanWE12EwnA/104709
+#EXTINF:-1 tvg-name="Viva+ IL" group-title="Uncategorized",Viva+ IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2382/index.m3u8
+#EXTINF:-1 tvg-name="VIVA+ IL" group-title="Uncategorized",VIVA+ IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12234/index.m3u8
+#EXTINF:-1 tvg-name="YAM TIHONI HD IL" group-title="Uncategorized",YAM TIHONI HD IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/12235/index.m3u8
+#EXTINF:-1 tvg-name="Yamtihoni IL" group-title="Uncategorized",Yamtihoni IL
+http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2390/index.m3u8
+
