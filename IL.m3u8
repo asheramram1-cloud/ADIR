@@ -182,3 +182,10 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8GZZTZ8XQFZG4X/12280/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8GZZTZ8XQFZG4X/12281/index.m3u8
 #EXTINF:0 group-title="Израиль | ישראלי" tvg-id="5087" tvg-logo="http://epg.one/img2/5087.png" tvg-rec="0",WIZ HD IL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8GZZTZ8XQFZG4X/12283/index.m3u8
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-il.xml"
+
+#EXTINF:-1 tvg-id="mychannel1" tvg-name="My Channel" tvg-logo="https://example.com/logo.png" group-title="My Channels",My Channel
+https://example.com/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="mychannel2" tvg-name="My Second Channel" tvg-logo="https://example.com/logo2.png" group-title="My Channels",My Second Channel
+https://example.com/live2/stream.m3u8
