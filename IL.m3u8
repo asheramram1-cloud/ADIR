@@ -1,21 +1,15 @@
 
 #EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2670" tvg-logo="http://epg.one/img2/2670.png" tvg-rec="3",Keshet 12 HD IL
-"https://iptv-epg.org/files/tvg-il.xml
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YSSM7RW8HGUETY/2329/index.m3u8
 #EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2671" tvg-logo="http://epg.one/img2/2671.png" tvg-rec="3",Reshet 13 HD IL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YSSM7RW8HGUETY/2330/index.m3u8
-ה"https://iptv-epg.org/files/tvg-il.xml"
 #EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2672" tvg-logo="http://epg.one/img2/2672.png" tvg-rec="3",Channel 9 HD IL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YSSM7RW8HGUETY/2374/index.m3u8
-"https://iptv-epg.org/files/tvg-il.xml"
 #EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2672" tvg-logo="http://epg.one/img2/2672.png" tvg-rec="3",Channel 9 FHD IL
-"https://iptv-epg.org/files/tvg-il.xml"
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YSSM7RW8HGUETY/2331/index.m3u8
 #EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2700" tvg-logo="http://epg.one/img2/2700.png" tvg-rec="3",Channel 98 IL
-"https://iptv-epg.org/files/tvg-il.xml"
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YSSM7RW8HGUETY/2369/index.m3u8
 #EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2673" tvg-logo="http://epg.one/img2/2673.png" tvg-rec="3",Kan 11 HD IL
-"https://iptv-epg.org/files/tvg-il.xml"
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YSSM7RW8HGUETY/2332/index.m3u8
 #EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2678" tvg-logo="http://epg.one/img2/2678.png" tvg-rec="3",Nick Jr. IL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YSSM7RW8HGUETY/2337/index.m3u8
@@ -189,4 +183,3 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YSSM7RW8HGUETY/12280/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YSSM7RW8HGUETY/12281/index.m3u8
 #EXTINF:0 group-title="Израиль | ישראלי" tvg-id="5087" tvg-logo="http://epg.one/img2/5087.png" tvg-rec="0",WIZ HD IL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/YSSM7RW8HGUETY/12283/index.m3u8
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-il.xml"
