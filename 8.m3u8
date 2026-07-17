@@ -200,3 +200,5 @@ http://s08.wsbof.com:8090/s/dc2d537d/animal-planet-il-hd.m3u8
 
 #EXTINF:-1 tvg-id="Baby.il" tvg-logo="http://static.g-cdn.app/streams/baby-il.png" tvg-name="Baby HD" group-title="Israel",Baby HD
 http://s08.wsbof.com:8090/s/dc2d537d/baby-il.m3u8
+#EXTINF:-1 tvg-id="Now14.il@SD",Now 14 (1080p)
+https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
